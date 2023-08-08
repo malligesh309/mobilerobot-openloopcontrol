@@ -135,9 +135,6 @@ https://drive.google.com/file/d/1-GSRwAgL1YWPY6rWJO631pLzIF71pnDl/view?usp=drive
 
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-<br/>
-<br/>
-
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
